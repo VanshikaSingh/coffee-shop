@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.0",
+    "redux": "^4.2.1"
+  },
+  "devDependencies": {
+    "@redux-devtools/core": "^3.13.1",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
